@@ -1,76 +1,168 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>9.d 2026</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="icon" type="image/png" href="9d.png">
+</head>
+	<!--   divider  -->
+<body>
 
-/*========Header========*/
+<nav>
+	<ul>
+		<li><a href="#zgodbe">Zgodbe</a></li>
+		<li><a href="">Slike</a></li>
+		<li><a href="#učenci">Učenci</a></li>
+	<!--<li><a href="">Več o nas</a></li>-->
+	</ul>
+</nav>
 
-nav {
-	position: sticky;
-	top: 1%;
-	border-radius: 10px;
-	border: 2px none gray;
-}
+<!--navigation board-->
 
-nav li {
-	display: inline-block;
-	padding:10px ;
-	margin: 5px;
+<div>
+<h1 id="title">Pozdravljeni!</h1>
+<h2>Spletna stran za učence 9.D</h2>
+<iframe src="" width="100%" title="Naš Video"></iframe>	
 
-}
+<br>
+<h2>Zgodbe:</h2>
 
-nav a {
-	text-decoration: none;
-	font-family: "Roboto Mono";
-}
+</div>
+<br>
+<div class="imagediv2" section="zgodbe">
+	
+	<img src="valley.jpg" alt="slika" align bottom width="100%">
+	<br>
+	<h3>to je začasna slika, tukaj pa začasno besedilo. </h3>
+	<h4 class="date">27.3.2026</h4>
+</div>
 
-nav ul {
-	list-style: none;
-	background-color: skyblue;
-	text-align: center;
-	margin: 10px;
-}
+<br>
 
-/*========Footer========*/
+<div class="imagediv2">
+	<img src="valley.jpg" alt="slika" align bottom width="100%">
+	<br>
+	<h3>to je začasna slika, tukaj pa začasno besedilo. </h3>
+	<h4 class="date">datum</h4>
+</div>
 
-.imagediv {
-	border-radius: 10px;
-	border: 2px solid gray;
-  	padding: 1px;
-  	display: flex;
-  	flex-direction:column;
-  	align-items: left;
-  	background-color: rgb(255, 255, 204);
-}
+<br>
 
-.imagediv2 {
-	border-radius: 10px;
-	border: 2px solid gray;
-  	padding: 1px;
-  	display: flex;
-  	flex-direction:column;
-  	align-items: left;
-  	background-color: rgb(255, 255, 204);
-}
+<div class="imagediv2">
+	<img src="valley.jpg" alt="slika" align bottom width="100%">
+	<br>
+	<h3>to je začasna slika, tukaj pa začasno besedilo. </h3>
+	<h4 class="date">datum</h4>
+</div>
+
+<br>
+<pre>
 
 
 
-img {
-	border-radius: 8px;
-  	display: flex;
 
-}
 
-h1 #temp {
-	color: red;
-}
 
-a {
-	text-decoration: none;
-	color: black;	
-}
 
-body {background-color: ;}
 
-.date {
-	opacity:1;
-	color:dimgray;
-}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+</body>
+</html>
