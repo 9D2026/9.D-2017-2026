@@ -37,7 +37,7 @@ nav ul {
   	display: flex;
   	flex-direction:column;
   	align-items: left;
-  	background-color: light_yellow;
+  	background-color: rgb(255, 255, 204);
 }
 
 .imagediv2 {
