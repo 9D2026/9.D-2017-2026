@@ -58,10 +58,6 @@ img {
 
 }
 
-h1 #temp {
-	color: red;
-}
-
 a {
 	text-decoration: none;
 	color: black;	
@@ -74,3 +70,25 @@ body {background-color: ;}
 	color:dimgray;
 }
 
+table {
+	border-collapse: collapse;
+	width: 100%;
+	table-layout: fixed; 
+}
+
+th, td{
+	padding: 10px;
+  border: 1px solid gray;
+  text-align: center;
+}
+
+li {
+	font-size: 20px;
+
+}
+
+.li2 {
+	background-color: rgb(230, 230, 230);
+	
+
+}
